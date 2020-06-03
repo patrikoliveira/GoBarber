@@ -2,6 +2,7 @@ node_modules/
 .vscode
 ormconfig.json
 .env
+yarn-error.log
 
 tmp/*
 !tmp/.gitkeep
